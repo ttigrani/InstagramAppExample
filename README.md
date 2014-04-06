@@ -1,3 +1,7 @@
+Assignment 0
+Tigran Tigranian, A11051839
+Cogs 121 SP14
+
 Instagram Example
 ===========
 
